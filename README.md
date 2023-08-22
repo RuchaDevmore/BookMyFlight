@@ -1,0 +1,2 @@
+# TheSoloist
+PG-Diploma project
